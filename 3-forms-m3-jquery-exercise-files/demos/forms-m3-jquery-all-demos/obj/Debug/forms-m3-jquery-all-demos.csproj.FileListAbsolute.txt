@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m3-jquery\demos\forms-m3-jquery-all-demos\bin\forms-m3-jquery-all-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m3-jquery\demos\forms-m3-jquery-all-demos\bin\forms-m3-jquery-all-demos.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m3-jquery\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m3-jquery\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m3-jquery\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\bin\forms-m3-jquery-all-demos.dll.config
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\bin\forms-m3-jquery-all-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\bin\forms-m3-jquery-all-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.csprojAssemblyReference.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.csproj.CoreCompileInputs.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\3-forms-m3-jquery-exercise-files\demos\forms-m3-jquery-all-demos\obj\Debug\forms-m3-jquery-all-demos.pdb

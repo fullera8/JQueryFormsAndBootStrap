@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m5-binding\demos\forms-m5-binding-demos\bin\forms-m5-binding-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m5-binding\demos\forms-m5-binding-demos\bin\forms-m5-binding-demos.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m5-binding\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m5-binding\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m5-binding\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\bin\forms-m5-binding-demos.dll.config
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\bin\forms-m5-binding-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\bin\forms-m5-binding-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.csprojAssemblyReference.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.csproj.CoreCompileInputs.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\5-forms-m5-binding-exercise-files\demos\forms-m5-binding-demos\obj\Debug\forms-m5-binding-demos.pdb

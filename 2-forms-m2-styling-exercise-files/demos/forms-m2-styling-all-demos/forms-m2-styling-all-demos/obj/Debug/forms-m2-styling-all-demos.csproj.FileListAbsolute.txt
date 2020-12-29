@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m2-styling\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\bin\forms-m2-styling-all-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m2-styling\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\bin\forms-m2-styling-all-demos.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m2-styling\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m2-styling\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m2-styling\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\bin\forms-m2-styling-all-demos.dll.config
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\bin\forms-m2-styling-all-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\bin\forms-m2-styling-all-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.csprojAssemblyReference.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.csproj.CoreCompileInputs.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\2-forms-m2-styling-exercise-files\demos\forms-m2-styling-all-demos\forms-m2-styling-all-demos\obj\Debug\forms-m2-styling-all-demos.pdb

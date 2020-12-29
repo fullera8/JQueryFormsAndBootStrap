@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m6-components\demos\forms-m6-components\bin\forms-m6-components.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m6-components\demos\forms-m6-components\bin\forms-m6-components.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m6-components\demos\forms-m6-components\obj\Debug\forms-m6-components.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m6-components\demos\forms-m6-components\obj\Debug\forms-m6-components.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m6-components\demos\forms-m6-components\obj\Debug\forms-m6-components.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\bin\forms-m6-components.dll.config
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\bin\forms-m6-components.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\bin\forms-m6-components.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\obj\Debug\forms-m6-components.csprojAssemblyReference.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\obj\Debug\forms-m6-components.csproj.CoreCompileInputs.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\obj\Debug\forms-m6-components.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\6-forms-m6-components-exercise-files\demos\forms-m6-components\obj\Debug\forms-m6-components.pdb

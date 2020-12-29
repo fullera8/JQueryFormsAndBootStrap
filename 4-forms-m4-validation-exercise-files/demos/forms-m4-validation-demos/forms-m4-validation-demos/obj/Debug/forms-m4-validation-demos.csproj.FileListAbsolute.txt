@@ -1,0 +1,12 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m4-validation\demos\forms-m4-validation-demos\forms-m4-validation-demos\bin\forms-m4-validation-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m4-validation\demos\forms-m4-validation-demos\forms-m4-validation-demos\bin\forms-m4-validation-demos.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m4-validation\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m4-validation\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\forms\forms-m4-validation\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\bin\forms-m4-validation-demos.dll.config
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\bin\forms-m4-validation-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\bin\forms-m4-validation-demos.pdb
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.csprojAssemblyReference.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.csproj.CoreCompileInputs.cache
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.dll
+C:\Users\fulle\OneDrive\Pictures\Documents\PluralSight\jQuery\Intermediate\FormsAndBootstrap\4-forms-m4-validation-exercise-files\demos\forms-m4-validation-demos\forms-m4-validation-demos\obj\Debug\forms-m4-validation-demos.pdb
