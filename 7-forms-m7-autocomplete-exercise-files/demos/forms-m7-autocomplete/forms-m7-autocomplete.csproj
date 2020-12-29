@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -69,6 +71,7 @@
     <Content Include="autocomplete-07\after\AutoComplete.html" />
     <Content Include="autocomplete-07\after\QueryHandler.aspx" />
     <Content Include="autocomplete-07\before\AutoComplete.html" />
+    <Content Include="autocomplete-07\before\QueryHandler.aspx" />
     <Content Include="autocomplete-08\before\AutoComplete.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -105,6 +108,13 @@
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="autocomplete-07\after\QueryHandler.aspx.designer.cs">
+      <DependentUpon>QueryHandler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="autocomplete-07\before\QueryHandler.aspx.cs">
+      <DependentUpon>QueryHandler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="autocomplete-07\before\QueryHandler.aspx.designer.cs">
       <DependentUpon>QueryHandler.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
