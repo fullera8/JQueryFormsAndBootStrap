@@ -18,22 +18,35 @@
     <script>
 
         $(function () {
-            $('#type-ahead').typeahead([
-                
-                {
-                    name: 'football-teams',
-                    local: ['Giants', 'Jets', 'Raiders', 'Bears'],
-                    header: '<h4>Football Teams</h4>'
-                },
-                {
-                    name: 'baseball-teams',
-                    local: ['Yankees', 'Mets', 'Athletics', 'White Sox', 'Brewers'],
-                    header: '<h4>Baseball Teams</h4>'
-                }
-                
-                ]);
-            }
-        );
+            $('#type-ahead').typeahead({
+                //manually define the tokens that give you a return for a value, either partial word or
+                //related word. Tokens cannot contain spaces (hence the 2 tokens for new york)
+                local: [
+                    {
+                        value: 'Giants',
+                        tokens: ['Giants', 'iants', 'ants', 'nts', 'ts', 's', 'New', 'York']
+                    },
+                    {
+                        value: 'Jets',
+                        tokens: ['Jets', 'ets', 'ts', 's', 'New', 'York']
+                    }
+                ]
+                //[
+
+                //{
+                //    name: 'football-teams',
+                //    local: ['Giants', 'Jets', 'Raiders', 'Bears'],
+                //    header: '<h4>Football Teams</h4>'
+                //},
+                //{
+                //    name: 'baseball-teams',
+                //    local: ['Yankees', 'Mets', 'Athletics', 'White Sox', 'Brewers'],
+                //    header: '<h4>Baseball Teams</h4>'
+                //}
+
+                //]
+            });
+        });
 
     </script>
 </body>
