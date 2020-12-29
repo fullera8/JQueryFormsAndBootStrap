@@ -5,7 +5,7 @@
     <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
     <link href="../../Content/typeahead.js-bootstrap.css" rel="stylesheet" />
     <script src="../../Scripts/jquery-1.9.1.min.js"></script>
-    <script src="../../Scripts/typeahead.min.js"></script>
+    <script src="../../Scripts/typeahead.js"></script>
     <script src="../../Scripts/hogan.min.js"></script>
     <style>
         body {
@@ -16,12 +16,14 @@
 <body>
     <input id="type-ahead" type="text" class="form-control" />
     <script>
-
+        //use a template engine for drop-down formatting
+        //hogan template allows token replacement for example with the containter {{}}
         $(function () {
             $('#type-ahead').typeahead(
                 [
                     {
-
+                        template: '<b>{{value}} - </b>Superbowl winner in {{year}}',
+                        engine: Hogan,
                         local: [
                             {
                                 value: 'Giants',
