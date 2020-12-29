@@ -16,7 +16,23 @@
 <body>
     <input id="type-ahead" type="text" class="form-control" />
     <script>
-
+        $(function () {
+            //adds local storage for the same cache. This will group the backend data for partial retrieval
+            $('#type-ahead').typeahead([
+                {
+                    //Add local values to the type ahead, fastest persistent storage
+                    name: 'teamsFootball',
+                    local: ['Giants', 'Jets', 'Raiders', 'Bears'],
+                    header: '<h4>Football</h4>'
+                },
+                {
+                    //Add local values to the type ahead, fastest persistent storage
+                    name: 'teamsBaseball',
+                    local: ['Yankees', 'Mets', 'White Sox', 'Red Sox', 'Brewers'],
+                    header: '<h4>Baseball</h4>'
+                }
+            ]);
+        });
     </script>
 </body>
 </html>
