@@ -17,11 +17,16 @@
     <input id="type-ahead" type="text" class="form-control" />
     <script>
         $(function () {
-
+            //sets the prefetch to not cache the data
+            //ttl = time to live in cache
+            //taking the name out will also not cache the file
             $('#type-ahead').typeahead(
                 {
-                    name: 'football-teams',
-                    prefetch: './teams.json'            
+                    name: 'football-teams-cached2',
+                    prefetch: {
+                        url: './teams.json',
+                        ttl: 0
+                    }
                 }
             );
 
