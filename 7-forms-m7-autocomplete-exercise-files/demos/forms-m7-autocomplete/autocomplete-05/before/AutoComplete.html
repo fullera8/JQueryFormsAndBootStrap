@@ -18,11 +18,18 @@
     <script>
 
         $(function () {
+            //get values from a local file 
+            //prefetch the local file so there is no need to hard code on the page
+            //grabs before page load, note header does not work in the JSON
             $('#type-ahead').typeahead(
-                    {
-                        name: 'football-teams',
-                        local: ['Giants', 'Jets']
-                    }
+                {
+                    name: 'football-teams',
+                    prefetch: './teams.json'
+                }
+                //{
+                //    name: 'football-teams',
+                //    local: ['Giants', 'Jets']
+                //}
             );
 
         });

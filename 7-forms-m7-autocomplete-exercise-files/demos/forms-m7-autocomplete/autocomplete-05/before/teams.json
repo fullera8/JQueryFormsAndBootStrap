@@ -2,13 +2,15 @@
 [
 
 	{
-	  "value": "Giants",
-	  "tokens": ["New York", "Giants"]
+		"value": "Giants",
+		"tokens": [ "Giants", "iants", "ants", "nts", "ts", "s", "New", "York" ],
+		"header": "<h4>Football</h4>"
 	},
 
 	{
-	  "value": "Jets",
-	  "tokens": ["New York", "Jets"]
+		"value": "Jets",
+		"tokens": [ "Jets", "ets", "ts", "s", "New", "York" ],
+		"header": "<h4>Baseball</h4>"
 	}
 
 ]
