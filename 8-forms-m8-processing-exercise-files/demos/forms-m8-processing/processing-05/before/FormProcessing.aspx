@@ -119,7 +119,17 @@
                     value: 'foo'
                 });
 
-                $.post('FormProcessing.aspx', formData);
+                //validation for success
+                $.post('FormProcessing.aspx', formData)
+                    .done(function () {
+                        alert('success');
+                    })
+                    .fail(function () {
+                        alert('fail');
+                    })
+                    .always(function () {
+                        alert('Complete');
+                    });
 
             });
 

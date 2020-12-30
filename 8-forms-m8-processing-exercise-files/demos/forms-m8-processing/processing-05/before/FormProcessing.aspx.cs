@@ -23,6 +23,7 @@ namespace forms_m8_processing.processing_05.before
 
                 string bonusData = Request.Form["bonus"];
 
+                //Lets the client know the how the server did. Normally validation covers this
                 Response.StatusCode = 200;
 
 
