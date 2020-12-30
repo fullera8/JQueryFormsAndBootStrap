@@ -21,7 +21,7 @@ namespace forms_m8_processing.processing_04.before
                 bool resumeInGit = !String.IsNullOrEmpty(Request.Form["git"]);
                 string majorQuirk = Request.Form["quirk"];
 
-                string bonusData = Request.Form["bonus"];
+                string bonusData = Request.Form["formBonus"];
 
             }
         }

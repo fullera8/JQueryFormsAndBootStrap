@@ -114,9 +114,12 @@
                 event.preventDefault();
 
                 var formData = $('form').serializeArray();
-                
+                formData.push({
+                    name: 'formBonus',
+                    value: 'formBonusValue'
+                });
                 $.post('FormProcessing.aspx', formData);
-
+                
             });
 
         });
