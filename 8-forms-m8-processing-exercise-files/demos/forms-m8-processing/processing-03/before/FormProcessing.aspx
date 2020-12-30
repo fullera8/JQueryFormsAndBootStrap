@@ -110,8 +110,11 @@
         $(function () {
 
             $('form').submit(function (event) {
-                alert('Submitting!');
-                
+                //alert('Submitting!');
+                event.preventDefault();
+
+                var formData = $('form').serializeArray();
+                $.post('FormProcessing.aspx', formData);
             });
 
         });
